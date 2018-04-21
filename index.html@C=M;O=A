@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /Archive/NEW-LEAKS/MIRAI/Owari</title>
+ </head>
+ <body>
+<h1>Index of /Archive/NEW-LEAKS/MIRAI/Owari</h1>
+  <table>
+   <tr><th valign="top">&nbsp;</th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=D">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="/Archive/NEW-LEAKS/MIRAI/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="enc.c">enc.c</a>                  </td><td align="right">2018-01-17 09:53  </td><td align="right">2.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="scanListen.go">scanListen.go</a>          </td><td align="right">2018-02-07 20:19  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="build.sh">build.sh</a>               </td><td align="right">2018-02-08 02:25  </td><td align="right">8.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="build_payload.py">build_payload.py</a>       </td><td align="right">2018-02-23 06:38  </td><td align="right">4.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="bot/">bot/</a>                   </td><td align="right">2018-04-01 19:44  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="cnc/">cnc/</a>                   </td><td align="right">2018-04-01 19:44  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="dlr/">dlr/</a>                   </td><td align="right">2018-04-01 19:44  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="loader/">loader/</a>                </td><td align="right">2018-04-01 19:44  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="ReadMe.txt">ReadMe.txt</a>             </td><td align="right">2018-04-01 19:54  </td><td align="right">871 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>
